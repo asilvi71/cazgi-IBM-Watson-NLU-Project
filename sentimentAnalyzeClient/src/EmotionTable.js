@@ -22,6 +22,7 @@ class EmotionTable extends React.Component {
           </table>
           </div>
           );
+          
         }
     
 }
